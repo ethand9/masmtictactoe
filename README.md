@@ -1,2 +1,2 @@
-# masmtictactoe
-tic tac toe for CS 271
+# Tic Tac Toe
+This is a game of Tic Tac Toe made in x86 MASM Assembly
